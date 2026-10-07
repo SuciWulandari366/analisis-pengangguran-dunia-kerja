@@ -270,15 +270,15 @@ footer {
 def load_data():
 
     df_pekerja = pd.read_csv(
-        "data/tenaga_kerja.csv"
+        "tenaga_kerja.csv"
     )
 
     df_pengangguran = pd.read_csv(
-        "data/pengangguran.csv"
+        "pengangguran.csv"
     )
 
     df_pekerja_provinsi = pd.read_csv(
-        "data/pekerja_provinsi.csv"
+        "pekerja_provinsi.csv"
     )
 
     return (
