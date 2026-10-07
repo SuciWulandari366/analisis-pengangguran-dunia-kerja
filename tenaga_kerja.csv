@@ -1,0 +1,361 @@
+id,tahun,periode,lapangan_usaha,jumlah_pekerja
+1,2025,Agustus,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",5130470
+2,2025,Agustus,Industri Pengolahan,20308685
+3,2025,Agustus,Informasi dan Komunikasi,1064357
+4,2025,Agustus,Jasa Kesehatan dan Kegiatan Sosial,2458567
+5,2025,Agustus,Jasa Keuangan dan Asuransi,1650077
+6,2025,Agustus,Jasa Lainnya,6529421
+7,2025,Agustus,Jasa Pendidikan,7413725
+8,2025,Agustus,Jasa Perusahaan,2581616
+9,2025,Agustus,Konstruksi,9543258
+10,2025,Agustus,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",596565
+11,2025,Agustus,Pengadaan Listrik dan Gas,363987
+12,2025,Agustus,Penyediaan Akomodasi dan Makan Minum,11692579
+13,2025,Agustus,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",27452952
+14,2025,Agustus,Pertambangan dan Penggalian,1728814
+15,2025,Agustus,"Pertanian, Kehutanan, dan Perikanan",41247117
+16,2025,Agustus,Real Estat,509154
+17,2025,Agustus,Total,146542264
+18,2025,Agustus,Transportasi dan Pergudangan,6270920
+19,2025,Februari,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",5323636
+20,2025,Februari,Industri Pengolahan,19602200
+21,2025,Februari,Informasi dan Komunikasi,1248445
+22,2025,Februari,Jasa Kesehatan dan Kegiatan Sosial,2507242
+23,2025,Februari,Jasa Keuangan dan Asuransi,1659648
+24,2025,Februari,Jasa Lainnya,6390136
+25,2025,Februari,Jasa Pendidikan,7348363
+26,2025,Februari,Jasa Perusahaan,2532979
+27,2025,Februari,Konstruksi,8700181
+28,2025,Februari,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",626518
+29,2025,Februari,Pengadaan Listrik dan Gas,358781
+30,2025,Februari,Penyediaan Akomodasi dan Makan Minum,11479960
+31,2025,Februari,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",28073467
+32,2025,Februari,Pertambangan dan Penggalian,1644392
+33,2025,Februari,"Pertanian, Kehutanan, dan Perikanan",41609136
+34,2025,Februari,Real Estat,498473
+35,2025,Februari,Total,145771180
+36,2025,Februari,Transportasi dan Pergudangan,6167623
+37,2025,Agustus,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",5130470
+38,2025,Agustus,Industri Pengolahan,20308685
+39,2025,Agustus,Informasi dan Komunikasi,1064357
+40,2025,Agustus,Jasa Kesehatan dan Kegiatan Sosial,2458567
+41,2025,Agustus,Jasa Keuangan dan Asuransi,1650077
+42,2025,Agustus,Jasa Lainnya,6529421
+43,2025,Agustus,Jasa Pendidikan,7413725
+44,2025,Agustus,Jasa Perusahaan,2581616
+45,2025,Agustus,Konstruksi,9543258
+46,2025,Agustus,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",596565
+47,2025,Agustus,Pengadaan Listrik dan Gas,363987
+48,2025,Agustus,Penyediaan Akomodasi dan Makan Minum,11692579
+49,2025,Agustus,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",27452952
+50,2025,Agustus,Pertambangan dan Penggalian,1728814
+51,2025,Agustus,"Pertanian, Kehutanan, dan Perikanan",41247117
+52,2025,Agustus,Real Estat,509154
+53,2025,Agustus,Total,146542264
+54,2025,Agustus,Transportasi dan Pergudangan,6270920
+55,2025,Februari,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",5323636
+56,2025,Februari,Industri Pengolahan,19602200
+57,2025,Februari,Informasi dan Komunikasi,1248445
+58,2025,Februari,Jasa Kesehatan dan Kegiatan Sosial,2507242
+59,2025,Februari,Jasa Keuangan dan Asuransi,1659648
+60,2025,Februari,Jasa Lainnya,6390136
+61,2025,Februari,Jasa Pendidikan,7348363
+62,2025,Februari,Jasa Perusahaan,2532979
+63,2025,Februari,Konstruksi,8700181
+64,2025,Februari,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",626518
+65,2025,Februari,Pengadaan Listrik dan Gas,358781
+66,2025,Februari,Penyediaan Akomodasi dan Makan Minum,11479960
+67,2025,Februari,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",28073467
+68,2025,Februari,Pertambangan dan Penggalian,1644392
+69,2025,Februari,"Pertanian, Kehutanan, dan Perikanan",41609136
+70,2025,Februari,Real Estat,498473
+71,2025,Februari,Total,145771180
+72,2025,Februari,Transportasi dan Pergudangan,6167623
+73,2025,Agustus,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",5130470
+74,2025,Agustus,Industri Pengolahan,20308685
+75,2025,Agustus,Informasi dan Komunikasi,1064357
+76,2025,Agustus,Jasa Kesehatan dan Kegiatan Sosial,2458567
+77,2025,Agustus,Jasa Keuangan dan Asuransi,1650077
+78,2025,Agustus,Jasa Lainnya,6529421
+79,2025,Agustus,Jasa Pendidikan,7413725
+80,2025,Agustus,Jasa Perusahaan,2581616
+81,2025,Agustus,Konstruksi,9543258
+82,2025,Agustus,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",596565
+83,2025,Agustus,Pengadaan Listrik dan Gas,363987
+84,2025,Agustus,Penyediaan Akomodasi dan Makan Minum,11692579
+85,2025,Agustus,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",27452952
+86,2025,Agustus,Pertambangan dan Penggalian,1728814
+87,2025,Agustus,"Pertanian, Kehutanan, dan Perikanan",41247117
+88,2025,Agustus,Real Estat,509154
+89,2025,Agustus,Total,146542264
+90,2025,Agustus,Transportasi dan Pergudangan,6270920
+91,2025,Februari,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",5323636
+92,2025,Februari,Industri Pengolahan,19602200
+93,2025,Februari,Informasi dan Komunikasi,1248445
+94,2025,Februari,Jasa Kesehatan dan Kegiatan Sosial,2507242
+95,2025,Februari,Jasa Keuangan dan Asuransi,1659648
+96,2025,Februari,Jasa Lainnya,6390136
+97,2025,Februari,Jasa Pendidikan,7348363
+98,2025,Februari,Jasa Perusahaan,2532979
+99,2025,Februari,Konstruksi,8700181
+100,2025,Februari,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",626518
+101,2025,Februari,Pengadaan Listrik dan Gas,358781
+102,2025,Februari,Penyediaan Akomodasi dan Makan Minum,11479960
+103,2025,Februari,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",28073467
+104,2025,Februari,Pertambangan dan Penggalian,1644392
+105,2025,Februari,"Pertanian, Kehutanan, dan Perikanan",41609136
+106,2025,Februari,Real Estat,498473
+107,2025,Februari,Total,145771180
+108,2025,Februari,Transportasi dan Pergudangan,6167623
+109,2025,Agustus,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",5130470
+110,2025,Agustus,Industri Pengolahan,20308685
+111,2025,Agustus,Informasi dan Komunikasi,1064357
+112,2025,Agustus,Jasa Kesehatan dan Kegiatan Sosial,2458567
+113,2025,Agustus,Jasa Keuangan dan Asuransi,1650077
+114,2025,Agustus,Jasa Lainnya,6529421
+115,2025,Agustus,Jasa Pendidikan,7413725
+116,2025,Agustus,Jasa Perusahaan,2581616
+117,2025,Agustus,Konstruksi,9543258
+118,2025,Agustus,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",596565
+119,2025,Agustus,Pengadaan Listrik dan Gas,363987
+120,2025,Agustus,Penyediaan Akomodasi dan Makan Minum,11692579
+121,2025,Agustus,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",27452952
+122,2025,Agustus,Pertambangan dan Penggalian,1728814
+123,2025,Agustus,"Pertanian, Kehutanan, dan Perikanan",41247117
+124,2025,Agustus,Real Estat,509154
+125,2025,Agustus,Total,146542264
+126,2025,Agustus,Transportasi dan Pergudangan,6270920
+127,2025,Februari,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",5323636
+128,2025,Februari,Industri Pengolahan,19602200
+129,2025,Februari,Informasi dan Komunikasi,1248445
+130,2025,Februari,Jasa Kesehatan dan Kegiatan Sosial,2507242
+131,2025,Februari,Jasa Keuangan dan Asuransi,1659648
+132,2025,Februari,Jasa Lainnya,6390136
+133,2025,Februari,Jasa Pendidikan,7348363
+134,2025,Februari,Jasa Perusahaan,2532979
+135,2025,Februari,Konstruksi,8700181
+136,2025,Februari,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",626518
+137,2025,Februari,Pengadaan Listrik dan Gas,358781
+138,2025,Februari,Penyediaan Akomodasi dan Makan Minum,11479960
+139,2025,Februari,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",28073467
+140,2025,Februari,Pertambangan dan Penggalian,1644392
+141,2025,Februari,"Pertanian, Kehutanan, dan Perikanan",41609136
+142,2025,Februari,Real Estat,498473
+143,2025,Februari,Total,145771180
+144,2025,Februari,Transportasi dan Pergudangan,6167623
+145,2025,Agustus,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",5130470
+146,2025,Agustus,Industri Pengolahan,20308685
+147,2025,Agustus,Informasi dan Komunikasi,1064357
+148,2025,Agustus,Jasa Kesehatan dan Kegiatan Sosial,2458567
+149,2025,Agustus,Jasa Keuangan dan Asuransi,1650077
+150,2025,Agustus,Jasa Lainnya,6529421
+151,2025,Agustus,Jasa Pendidikan,7413725
+152,2025,Agustus,Jasa Perusahaan,2581616
+153,2025,Agustus,Konstruksi,9543258
+154,2025,Agustus,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",596565
+155,2025,Agustus,Pengadaan Listrik dan Gas,363987
+156,2025,Agustus,Penyediaan Akomodasi dan Makan Minum,11692579
+157,2025,Agustus,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",27452952
+158,2025,Agustus,Pertambangan dan Penggalian,1728814
+159,2025,Agustus,"Pertanian, Kehutanan, dan Perikanan",41247117
+160,2025,Agustus,Real Estat,509154
+161,2025,Agustus,Total,146542264
+162,2025,Agustus,Transportasi dan Pergudangan,6270920
+163,2025,Februari,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",5323636
+164,2025,Februari,Industri Pengolahan,19602200
+165,2025,Februari,Informasi dan Komunikasi,1248445
+166,2025,Februari,Jasa Kesehatan dan Kegiatan Sosial,2507242
+167,2025,Februari,Jasa Keuangan dan Asuransi,1659648
+168,2025,Februari,Jasa Lainnya,6390136
+169,2025,Februari,Jasa Pendidikan,7348363
+170,2025,Februari,Jasa Perusahaan,2532979
+171,2025,Februari,Konstruksi,8700181
+172,2025,Februari,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",626518
+173,2025,Februari,Pengadaan Listrik dan Gas,358781
+174,2025,Februari,Penyediaan Akomodasi dan Makan Minum,11479960
+175,2025,Februari,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",28073467
+176,2025,Februari,Pertambangan dan Penggalian,1644392
+177,2025,Februari,"Pertanian, Kehutanan, dan Perikanan",41609136
+178,2025,Februari,Real Estat,498473
+179,2025,Februari,Total,145771180
+180,2025,Februari,Transportasi dan Pergudangan,6167623
+181,2021,Agustus,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",4848980
+182,2021,Agustus,Industri Pengolahan,18694463
+183,2021,Agustus,Informasi dan Komunikasi,998199
+184,2021,Agustus,Jasa Kesehatan dan Kegiatan Sosial,2197328
+185,2021,Agustus,Jasa Keuangan dan Asuransi,1597805
+186,2021,Agustus,Jasa Lainnya,5773879
+187,2021,Agustus,Jasa Pendidikan,6491628
+188,2021,Agustus,Jasa Perusahaan,2017071
+189,2021,Agustus,Konstruksi,8293769
+190,2021,Agustus,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",562726
+191,2021,Agustus,Pengadaan Listrik dan Gas,284518
+192,2021,Agustus,Penyediaan Akomodasi dan Makan Minum,9180340
+193,2021,Agustus,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",25736110
+194,2021,Agustus,Pertambangan dan Penggalian,1443422
+195,2021,Agustus,"Pertanian, Kehutanan, dan Perikanan",37130676
+196,2021,Agustus,Real Estat,355955
+197,2021,Agustus,Total,131050523
+198,2021,Agustus,Transportasi dan Pergudangan,5443654
+199,2021,Februari,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",4657639
+200,2021,Februari,Industri Pengolahan,17823568
+201,2021,Februari,Informasi dan Komunikasi,1083471
+202,2021,Februari,Jasa Kesehatan dan Kegiatan Sosial,2307668
+203,2021,Februari,Jasa Keuangan dan Asuransi,1513576
+204,2021,Februari,Jasa Lainnya,6356738
+205,2021,Februari,Jasa Pendidikan,6493179
+206,2021,Februari,Jasa Perusahaan,1891659
+207,2021,Februari,Konstruksi,7929651
+208,2021,Februari,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",498535
+209,2021,Februari,Pengadaan Listrik dan Gas,274622
+210,2021,Februari,Penyediaan Akomodasi dan Makan Minum,9167542
+211,2021,Februari,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",25161613
+212,2021,Februari,Pertambangan dan Penggalian,1348217
+213,2021,Februari,"Pertanian, Kehutanan, dan Perikanan",38777600
+214,2021,Februari,Real Estat,471378
+215,2021,Februari,Total,131064305
+216,2021,Februari,Transportasi dan Pergudangan,5307649
+217,2022,Agustus,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",4875999
+218,2022,Agustus,Industri Pengolahan,19172397
+219,2022,Agustus,Informasi dan Komunikasi,1009091
+220,2022,Agustus,Jasa Kesehatan dan Kegiatan Sosial,2234153
+221,2022,Agustus,Jasa Keuangan dan Asuransi,1626460
+222,2022,Agustus,Jasa Lainnya,6033962
+223,2022,Agustus,Jasa Pendidikan,6512249
+224,2022,Agustus,Jasa Perusahaan,2237712
+225,2022,Agustus,Konstruksi,8481349
+226,2022,Agustus,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",511150
+227,2022,Agustus,Pengadaan Listrik dan Gas,311124
+228,2022,Agustus,Penyediaan Akomodasi dan Makan Minum,9607709
+229,2022,Agustus,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",26193890
+230,2022,Agustus,Pertambangan dan Penggalian,1530157
+231,2022,Agustus,"Pertanian, Kehutanan, dan Perikanan",38703996
+232,2022,Agustus,Real Estat,450007
+233,2022,Agustus,Total,135296713
+234,2022,Agustus,Transportasi dan Pergudangan,5805308
+235,2022,Februari,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",4633405
+236,2022,Februari,Industri Pengolahan,18671926
+237,2022,Februari,Informasi dan Komunikasi,1097558
+238,2022,Februari,Jasa Kesehatan dan Kegiatan Sosial,2384745
+239,2022,Februari,Jasa Keuangan dan Asuransi,1512007
+240,2022,Februari,Jasa Lainnya,5892267
+241,2022,Februari,Jasa Pendidikan,6626638
+242,2022,Februari,Jasa Perusahaan,1940203
+243,2022,Februari,Konstruksi,8188425
+244,2022,Februari,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",534247
+245,2022,Februari,Pengadaan Listrik dan Gas,309484
+246,2022,Februari,Penyediaan Akomodasi dan Makan Minum,9635433
+247,2022,Februari,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",25800553
+248,2022,Februari,Pertambangan dan Penggalian,1587978
+249,2022,Februari,"Pertanian, Kehutanan, dan Perikanan",40635997
+250,2022,Februari,Real Estat,450519
+251,2022,Februari,Total,135611895
+252,2022,Februari,Transportasi dan Pergudangan,5710510
+253,2023,Agustus,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",4880331
+254,2023,Agustus,Industri Pengolahan,19343332
+255,2023,Agustus,Informasi dan Komunikasi,989872
+256,2023,Agustus,Jasa Kesehatan dan Kegiatan Sosial,2210722
+257,2023,Agustus,Jasa Keuangan dan Asuransi,1637167
+258,2023,Agustus,Jasa Lainnya,6389916
+259,2023,Agustus,Jasa Pendidikan,6921209
+260,2023,Agustus,Jasa Perusahaan,2331434
+261,2023,Agustus,Konstruksi,9251821
+262,2023,Agustus,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",493076
+263,2023,Agustus,Pengadaan Listrik dan Gas,322629
+264,2023,Agustus,Penyediaan Akomodasi dan Makan Minum,10785255
+265,2023,Agustus,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",26552658
+266,2023,Agustus,Pertambangan dan Penggalian,1662488
+267,2023,Agustus,"Pertanian, Kehutanan, dan Perikanan",39451238
+268,2023,Agustus,Real Estat,481752
+269,2023,Agustus,Total,139852377
+270,2023,Agustus,Transportasi dan Pergudangan,6147477
+271,2023,Februari,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",4715229
+272,2023,Februari,Industri Pengolahan,18829997
+273,2023,Februari,Informasi dan Komunikasi,1192482
+274,2023,Februari,Jasa Kesehatan dan Kegiatan Sosial,2476565
+275,2023,Februari,Jasa Keuangan dan Asuransi,1600153
+276,2023,Februari,Jasa Lainnya,6403675
+277,2023,Februari,Jasa Pendidikan,673607
+278,2023,Februari,Jasa Perusahaan,2057271
+279,2023,Februari,Konstruksi,8605748
+280,2023,Februari,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",568604
+281,2023,Februari,Pengadaan Listrik dan Gas,357148
+282,2023,Februari,Penyediaan Akomodasi dan Makan Minum,10146818
+283,2023,Februari,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",2623881
+284,2023,Februari,Pertambangan dan Penggalian,1696911
+285,2023,Februari,"Pertanian, Kehutanan, dan Perikanan",40694572
+286,2023,Februari,Real Estat,477275
+287,2023,Februari,Total,138632511
+288,2023,Februari,Transportasi dan Pergudangan,5835171
+289,2024,Agustus,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",5093430
+290,2024,Agustus,Industri Pengolahan,20010758
+291,2024,Agustus,Informasi dan Komunikasi,1026529
+292,2024,Agustus,Jasa Kesehatan dan Kegiatan Sosial,2374984
+293,2024,Agustus,Jasa Keuangan dan Asuransi,1711261
+294,2024,Agustus,Jasa Lainnya,6589701
+295,2024,Agustus,Jasa Pendidikan,7158071
+296,2024,Agustus,Jasa Perusahaan,2445403
+297,2024,Agustus,Konstruksi,9470763
+298,2024,Agustus,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",556713
+299,2024,Agustus,Pengadaan Listrik dan Gas,355280
+300,2024,Agustus,Penyediaan Akomodasi dan Makan Minum,11270801
+301,2024,Agustus,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",27328692
+302,2024,Agustus,Pertambangan dan Penggalian,1733523
+303,2024,Agustus,"Pertanian, Kehutanan, dan Perikanan",40757151
+304,2024,Agustus,Real Estat,559307
+305,2024,Agustus,Total,144642004
+306,2024,Agustus,Transportasi dan Pergudangan,6199637
+307,2024,Februari,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",5465768
+308,2024,Februari,Industri Pengolahan,18880391
+309,2024,Februari,Informasi dan Komunikasi,1230780
+310,2024,Februari,Jasa Kesehatan dan Kegiatan Sosial,2497559
+311,2024,Februari,Jasa Keuangan dan Asuransi,1638487
+312,2024,Februari,Jasa Lainnya,6412119
+313,2024,Februari,Jasa Pendidikan,7259205
+314,2024,Februari,Jasa Perusahaan,2214743
+315,2024,Februari,Konstruksi,8645266
+316,2024,Februari,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",575441
+317,2024,Februari,Pengadaan Listrik dan Gas,360997
+318,2024,Februari,Penyediaan Akomodasi dan Makan Minum,11108827
+319,2024,Februari,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",27085695
+320,2024,Februari,Pertambangan dan Penggalian,1702556
+321,2024,Februari,"Pertanian, Kehutanan, dan Perikanan",40720959
+322,2024,Februari,Real Estat,479902
+323,2024,Februari,Total,142179046
+324,2024,Februari,Transportasi dan Pergudangan,5900351
+325,2025,Agustus,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",5130470
+326,2025,Agustus,Industri Pengolahan,20308685
+327,2025,Agustus,Informasi dan Komunikasi,1064357
+328,2025,Agustus,Jasa Kesehatan dan Kegiatan Sosial,2458567
+329,2025,Agustus,Jasa Keuangan dan Asuransi,1650077
+330,2025,Agustus,Jasa Lainnya,6529421
+331,2025,Agustus,Jasa Pendidikan,7413725
+332,2025,Agustus,Jasa Perusahaan,2581616
+333,2025,Agustus,Konstruksi,9543258
+334,2025,Agustus,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",596565
+335,2025,Agustus,Pengadaan Listrik dan Gas,363987
+336,2025,Agustus,Penyediaan Akomodasi dan Makan Minum,11692579
+337,2025,Agustus,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",27452952
+338,2025,Agustus,Pertambangan dan Penggalian,1728814
+339,2025,Agustus,"Pertanian, Kehutanan, dan Perikanan",41247117
+340,2025,Agustus,Real Estat,509154
+341,2025,Agustus,Total,146542264
+342,2025,Agustus,Transportasi dan Pergudangan,6270920
+343,2025,Februari,"Administrasi Pemerintahan, Pertahanan, dan Jaminan Sosial Wajib",5323636
+344,2025,Februari,Industri Pengolahan,19602200
+345,2025,Februari,Informasi dan Komunikasi,1248445
+346,2025,Februari,Jasa Kesehatan dan Kegiatan Sosial,2507242
+347,2025,Februari,Jasa Keuangan dan Asuransi,1659648
+348,2025,Februari,Jasa Lainnya,6390136
+349,2025,Februari,Jasa Pendidikan,7348363
+350,2025,Februari,Jasa Perusahaan,2532979
+351,2025,Februari,Konstruksi,8700181
+352,2025,Februari,"Pengadaan Air, Pengelolaan Sampah, Limbah, dan Daur Ulang",626518
+353,2025,Februari,Pengadaan Listrik dan Gas,358781
+354,2025,Februari,Penyediaan Akomodasi dan Makan Minum,11479960
+355,2025,Februari,"Perdagangan Besar dan Eceran, Reparasi Mobil dan Sepeda Motor",28073467
+356,2025,Februari,Pertambangan dan Penggalian,1644392
+357,2025,Februari,"Pertanian, Kehutanan, dan Perikanan",41609136
+358,2025,Februari,Real Estat,498473
+359,2025,Februari,Total,145771180
+360,2025,Februari,Transportasi dan Pergudangan,6167623
